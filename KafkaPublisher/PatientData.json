@@ -1,0 +1,19 @@
+{
+	"id": 101,
+	"timeStamp": "09-24-2019",
+	"firstName": "Harvey",
+	"lastName": "Spector",
+	"emailId": "abc@gmail.com",
+	"gender": "M",
+	"Orgnization": "Bank Of America",
+	"address": [
+		{
+			"type": "Work",
+			"city": "New York"
+		},
+		{
+			"type": "Home",
+			"city": "New Jersey"
+		}
+	]
+}
